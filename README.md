@@ -1,7 +1,6 @@
 
-> _I’m a true hacker. I research in deep stuff that attracts my attention to learn how it works and how it can be used curiously. It doesn’t matter if it’s about things, computer software or even people._
+_I’m a true hacker. I research in deep stuff that attracts my attention to learn how it works and how it can be used curiously. It doesn’t matter if it’s about things, computer software or even people. I’m fluent in designing software solutions and writing in several major programming languages (Go, Python, C, C++, Scala, Rust). I also design and build my own hardware from scratch for fun._
 
-I’m fluent in designing software solutions and writing in several major programming languages (Go, Python, C, C++, Scala, Rust). I also design and build my own hardware from scratch for fun.
 
 
 ### &nbsp;
@@ -15,6 +14,8 @@ I’m fluent in designing software solutions and writing in several major progra
 <!--img align="right"  height="160px" src="assets/wa11.png" /-->
 <!--p align="center">
   
+
+
 &nbsp;<br>[![Spotify](https://sudachen.vercel.app/api/spotify)]()
 
 </p-->
