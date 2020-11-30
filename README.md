@@ -1,4 +1,4 @@
-<img src="assets/villarrica.jpg">
+<img width="850" src="assets/villarrica.jpg">
 
 
 &nbsp;
