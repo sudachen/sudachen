@@ -7,6 +7,8 @@ I’ve been working in software development industry for more than 20 years. I w
 
 I’m fluent in designing software solutions and writing in several major programming languages (Go, Python, C, C++, Scala, Rust). Additionally I design and build my own hardware from scratch for fun.
 
+<p align="center">
+  
 [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/sudachen)
 [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/ZsPUGXT5)
 [![Facebook](https://img.shields.io/badge/facebook-profile-28a?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/asudachen)
@@ -16,6 +18,7 @@ I’m fluent in designing software solutions and writing in several major progra
 
 [![Spotify](https://sudachen.vercel.app/api/spotify)]()
 
+</p>
 <!--
 **sudachen/sudachen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
