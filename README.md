@@ -16,6 +16,6 @@ I’m fluent in designing software solutions and writing in several major progra
 
 &nbsp;
 
-[![Spotify](https://sudachen.vercel.app/api/spotify)]()
+<!-- [![Spotify](https://sudachen.vercel.app/api/spotify)]() -->
 
 
