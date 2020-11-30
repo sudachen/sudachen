@@ -1,7 +1,7 @@
 
 > _I’m a true hacker. I research in deep stuff that attracts my attention to learn how it works and how it can be used curiously. It doesn’t matter if it’s about things, computer software or even people._
 
-<!--img align="right"  class="padding_0" height="200px" src="assets/wa11.png" /-->
+<img align="right"  class="padding_0" height="150px" src="assets/wa11.png" />
 
 I’ve been working in software development industry for more than 20 years. I worked in diverse projects related to many things like telecom services, gamedev, mobile software, embedded systems, UEFI drivers, smart cards, virtualization, etc.
 
