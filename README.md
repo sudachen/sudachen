@@ -12,10 +12,10 @@ I’m fluent in designing software solutions and writing in several major progra
 [![Instagram](https://img.shields.io/badge/instagram-photo-a28?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/alex_cabeza_roja/)
 [![Twitter](https://img.shields.io/badge/twitter-follow-000?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/sudachen)
 
-<img align="right"  height="150px" src="assets/wa11.png" />
+<img align="right"  height="160px" src="assets/wa11.png" />
 <p align="center">
   
-&nbsp;[![Spotify](https://sudachen.vercel.app/api/spotify)]()
+&nbsp;<br>[![Spotify](https://sudachen.vercel.app/api/spotify)]()
 
 </p>
 <!--
