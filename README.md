@@ -1,15 +1,9 @@
 
-<img align="right"  height="130px" src="assets/wa11.png" />
-<p>
-&nbsp;<br>
-  
-**_I’m a true hacker. I research in deep stuff that attracts my attention to learn how it works and how it can be used curiously. It doesn’t matter if it’s about things, computer software or even people._**
+> _I’m a true hacker. I research in deep stuff that attracts my attention to learn how it works and how it can be used curiously. It doesn’t matter if it’s about things, computer software or even people._**
 
+<p align="center">
+<img align="center"  height="200px" src="assets/wa11.png" />
 </p>
-
-### &nbsp;
-
-<p>
 
 I’ve been working in software development industry for more than 20 years. I worked in diverse projects related to many things like telecom services, gamedev, mobile software, embedded systems, UEFI drivers, smart cards, virtualization, etc.
 
