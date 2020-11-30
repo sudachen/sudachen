@@ -5,7 +5,7 @@
 
 I’ve been working in software development industry for more than 20 years. I worked in diverse projects related to many things like telecom services, gamedev, mobile software, embedded systems, UEFI drivers, smart cards, virtualization, etc.
 
-I’m fluent in designing software solutions and writing in several major programming languages (Go, Python, C, C++, Scala, Rust). Additionally I can prototype my own hardware from scratch. 
+I’m fluent in designing software solutions and writing in several major programming languages (Go, Python, C, C++, Scala, Rust). Additionally I prototype my own hardware from scratch for fun. 
 
 <h3>&nbsp;</h3>
 
