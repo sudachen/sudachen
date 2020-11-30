@@ -14,16 +14,8 @@
 
 I’m fluent in designing software solutions and writing in several major programming languages (Go, Python, C, C++, Scala, Rust). I also design and build my own hardware from scratch for fun.
 
-<!-- ### &nbsp;
+&nbsp;
 
+[![Spotify](https://sudachen.vercel.app/api/spotify)]()
 
--->
-<!--img align="right"  height="160px" src="assets/wa11.png" /-->
-<!--p align="center">
-  
-
-
-&nbsp;<br>[![Spotify](https://sudachen.vercel.app/api/spotify)]()
-
-</p-->
 
