@@ -3,5 +3,3 @@
 I’ve been working in software development industry for more than 20 years. I worked in diverse projects related to many things like telecom services, mobile software, UEFI drivers, smart cards, virtualization, etc. I’m fluent in designing software solutions and writing in several major programming languages. I also design and build my own hardware from scratch for fun. 
 
 My updated professional resume http://sudachen.github.io/cv
-
-&nbsp;
