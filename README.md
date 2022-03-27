@@ -1,5 +1,5 @@
-> _I’m a true hacker. I research in deep stuff that attracts my attention to learn how it works and how it can be used curiously. It doesn’t matter if it’s about things, computer software or even people._ 
+> _I’m a holistic software engineer, and it means I strive to understand the entire project and be able to do any part of the work on it._ 
 
-I’ve been working in software development industry for more many years. I worked in diverse projects related to many things like telecom services, mobile software, device drivers, smart cards, virtualization, blockchain, etc. I’m fluent in designing software solutions and writing in several major programming languages. I also design and build my own hardware from scratch for fun. 
+I have been working in the software development industry for many years and have been involved in projects related to a wide variety of things, such as telecom, device drivers, virtualization, cybersecurity, blockchain, etc. I’m fluent in designing software solutions and writing in several major programming languages. My offsec skills and talent to reverse engineering let me understand how any given software works even without documentation.
 
 My updated professional resume http://sudachen.github.io/cv
