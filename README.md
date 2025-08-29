@@ -6,8 +6,9 @@ My innate curiosity drives me to explore a broad range of disciplines. In additi
 
 Beyond my day job, I’m constantly exploring what’s next in technology. I love diving deep into Web3 and AI, and I use AI assistants as my research partners to handle the heavy lifting. This lets me focus on the most exciting part: figuring out how these advanced technologies can be used to create real, practical value for people and businesses.
 
-A few things I’m working right now:
-* Making Web3 instant: I’m creating a super-fast communication layer for real-time dApps, using some powerful networking features in Linux (XDP).
-* A new kind of blockchain layer: I’m designing a temporary, “ephemeral” L3 rollup that can work with any blockchain, perfect for applications that need incredible speed.
+A few things I’m working as a background research:   
+* Owned Coding Assistant: My own open source command line coding AI asstant that will work with both cloud and locally hosted LLMs, without hidden system prompts and unpredictable limitations.
+* Making Web3 instant: Super-fast communication layer for real-time dApps, using some powerful networking features in Linux (XDP).
+* Real-time Web3 application ecosystem: Design an “ephemeral” L3/application layer that can run at near real-time speeds on quite of any blockchain.
 
 Updated CV can be find here [cv.sudachen.xyz](http://cv.sudachen.xyz)
