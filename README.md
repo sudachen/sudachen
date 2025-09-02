@@ -7,7 +7,7 @@ My innate curiosity drives me to explore a broad range of disciplines. In additi
 Beyond my day job, I’m constantly exploring what’s next in technology. I love diving deep into Web3 and AI, and I use AI assistants as my research partners to handle the heavy lifting. This lets me focus on the most exciting part: figuring out how these advanced technologies can be used to create real, practical value for people and businesses.
 
 A few things I’m working as a background research:   
-* __Owned Coding Assistant__: My own open source command line coding AI asstant that works with both cloud and locally hosted LLMs, without hidden system prompts and unpredictable limitations. [github.com/sudachen/coding-partner](https://github.com/sudachen/coding-partner)
+* __Owned Coding Assistant__: An open-source command line AI coding assistant I built to support both cloud and locally hosted LLMs, without the vendor lock-in or unpredictable limitations. [github.com/sudachen/coding-partner](https://github.com/sudachen/coding-partner)
 * __Making Web3 instant__: Low-latency UDP/QUIC based communication layer for real-time dApps, using some powerful networking features in Linux (XDP). [github.com/sudachen/xdp-rs](https://github.com/sudachen/xdp-rs)
 
 Updated CV can be find here [cv.sudachen.xyz](http://cv.sudachen.xyz)
