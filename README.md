@@ -4,5 +4,3 @@ I have extensive experience in the software development industry, having worked 
 
 Beyond my day job, I’m constantly exploring what’s next in technology. I love diving deep into Real-Time Systems and AI, and I use AI assistants as my research partners to handle the heavy lifting. This lets me focus on the most exciting part: figuring out how these advanced technologies can be used to create real, practical value for people and businesses.
 
-Updated CV can be find here [cv.sudachen.xyz](http://cv.sudachen.xyz)
-
