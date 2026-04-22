@@ -1,6 +1,5 @@
-I am a __holistic engineer__, driven by the understanding that every aspect of a project is interconnected. This holistic perspective empowers me to solve complex challenges and continuously enhance projects in a safe and efficient manner. While it’s true that no one can master everything, I have never embraced the idea of narrow specialization.
+I am a holistic engineer driven by the understanding that every layer of a project is interconnected. This perspective allows me to solve complex challenges and scale projects with a focus on safety and efficiency.
 
-I have extensive experience in the software development industry, having worked on a diverse range of projects spanning telecom, device drivers, virtualization, cybersecurity, blockchain, and more. I excel at designing software solutions and writing code in several major programming languages. Additionally, my expertise in reverse engineering enables me to comprehend the functionality of any software even in the absence of documentation or source code.
+With extensive experience across telecom, device drivers, virtualization, and cybersecurity, I excel at designing architecture and writing clean code in multiple major languages. My background in reverse engineering gives me a unique edge: the ability to comprehend and optimize software when documentation or source code is missing.
 
-Beyond my day job, I’m constantly exploring what’s next in technology. I love diving deep into Real-Time Systems and AI, and I use AI assistants as my research partners to handle the heavy lifting. This lets me focus on the most exciting part: figuring out how these advanced technologies can be used to create real, practical value for people and businesses.
-
+Currently, I am exploring the frontier of Real-Time Systems and AI. By using AI assistants to handle the heavy lifting of research, I focus on the high-level strategy: creating real-world utility from cutting-edge technology.
